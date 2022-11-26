@@ -12,13 +12,12 @@ First, we create our own interface with specific methods that we override in our
 When we run the main class of the file
 
 The program will show a menu which asks us what we wish to do
-
-         1) Create circular doubly linked list --> First and foremost, we must have a list to work with it. So, we create one and then put its first Node(head)
-         2) Add new element --> Creates a new Node and adds it to the list
-         3) Find element --> Searches a specific value in the list and tells us in which position is found first
-         4) Show circular doubly linked list stats --> Shows every detail of our list from the head to the tail
-         5) Remove head (starting node) --> Removes the head of the list and then replaces it with the next Node
-         6) Exit --> Stop the execution of the program
+1) Create circular doubly linked list --> First and foremost, we must have a list to work with it. So, we create one and then put its first Node(head)
+2) Add new element --> Creates a new Node and adds it to the list
+3) Find element --> Searches a specific value in the list and tells us in which position is found first
+4) Show circular doubly linked list stats --> Shows every detail of our list from the head to the tail
+5) Remove head (starting node) --> Removes the head of the list and then replaces it with the next Node
+6) Exit --> Stop the execution of the program
 
 Note: A Node is a basic unit of data structure. In our case, we want our stored data of each Node to be any Object possible (String, float, double, int, etc.)
       For that we use Java generics (parameterized types).
