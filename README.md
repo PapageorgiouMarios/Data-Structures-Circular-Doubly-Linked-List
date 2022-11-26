@@ -6,7 +6,6 @@ Circular linked list is a list where all nodes connect and form a circle in the 
 Doubly linked list is a list where navigation is possible in both ways compared to a Single linked list.
 This means each node is connected to its next and previous(unless it's the head) node
 
-![plot](C:\Users\Admin\Desktop\ΟΠΑ 6ο εξάμηνο)
 
 Now that we understand the concept of what we want to create, let's see the code developed for this specific data structure.
 First, we create our own interface with specific methods that we override in our class file
