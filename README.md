@@ -1,5 +1,4 @@
 # Data-Structures-Circular-Doubly-Linked-List
-Data structure in which list's nodes contain pointers to its previous nodes as well as the next nodes.
 
 Circular doubly linked list is one of many complicated data structures.
 Basically, it has both the features of a circular linked list and a doubly linked list.
